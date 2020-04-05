@@ -1,8 +1,6 @@
 # Project 1 - Route Planning Project
 
-This project is the first from Udacity's C++ Nanodegree. It covers the fundermantals of the coding language C++ and the A* search algorithm using real map data from the [OpenStreetMap](https://www.openstreetmap.org/) project.
-
-<img src="images/map.png" width="600" height="450" />
+This is the first project from Udacity's C++ Nanodegree. It covers the fundermantals of the coding language C++ and the A* search algorithm using real map data from the [OpenStreetMap](https://www.openstreetmap.org/) project.
 
 ----
 
@@ -46,7 +44,7 @@ This project needs following dependencies:
 
 # Results
 
-Here you can see a example result (values X(10,10) and Y(90,90)):
+Here you can see an example result (values: X(10,10) and Y(90,90)):
 
-<img src="images/result_map.png" width="600" height="450" />
-<img src="images/result_terminal.png" width="600" height="450" />
+<img src="images/result_map.png"/>
+<img src="images/result_terminal.png"/>
