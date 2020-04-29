@@ -1,6 +1,6 @@
 # Project 1 - Route Planning Project
 
-This is the first project from Udacity's C++ Nanodegree. It covers the fundermantals of the coding language C++ and the A* search algorithm using real map data from the [OpenStreetMap](https://www.openstreetmap.org/) project.
+This is the first project from [Udacity's C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213). It covers the fundamentals of the coding language C++ and the A* search algorithm using real map data from the [OpenStreetMap](https://www.openstreetmap.org/) project.
 
 ----
 
@@ -15,7 +15,7 @@ This is the first project from Udacity's C++ Nanodegree. It covers the funderman
 
 The project is divided into different files.
 
-* `src/main.cpp`: the i/o code and call of the planning and redering algorithms
+* `src/main.cpp`: the i/o code and call of the planning and rendering algorithms
 * `src/model.cpp` (and header file): data structures and functions for OpenStreetMap functionality
 * `src/render.cpp` (and header file): functions for displaying results
 * `src/route_model.cpp` (and header file): modification of the basic model data structure
